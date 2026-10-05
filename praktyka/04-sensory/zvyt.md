@@ -29,4 +29,4 @@
 3. Поріг найімовірніше зламається при зміні освітлення, кольору або матеріалу поверхні, а також якщо зміниться висота чи кут нахилу датчика над трасою.
 
 **Посилання на графік**
-https://github.com/KiTh36/Fundamentals-of-Robotics_practice/blob/main/praktyka/04-sensory/grafik_pokaziv.csv
+praktyka/04-sensory/Grafik_pokaziv.svg
