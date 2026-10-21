@@ -10,3 +10,8 @@
 
 ### Реалізований функціонал: 
 Наразі даному етапі виконання було реалізовано три основні стани: рух уперед за відсутності перешкод, виявлення перешкоди за допомогою ультразвукового датчика та її об'їзд. Після пошуку вільного напрямку робот продовжує рух. 
+
+### Демонстраційне відео:
+## Video Demonstration
+
+[Watch the robot demonstration](https://github.com/KiTh36/Fundamentals-of-Robotics_practice/blob/main/praktyka/06-avtomat-staniv/video-demo.mp4)
